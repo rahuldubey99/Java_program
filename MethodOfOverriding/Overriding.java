@@ -28,7 +28,7 @@ class Second extends First{
 }
 public class Overriding {
     public static void main(String[] args) {
-        Second foo = new Second(1,3,4);        
-        foo.display();
+        Second luv = new Second(1,3,4);        
+        luv.display();
     }    
 }
